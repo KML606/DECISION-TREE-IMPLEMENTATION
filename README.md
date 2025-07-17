@@ -33,3 +33,8 @@ Finally, I visualized the entire decision tree using plot_tree() from matplotlib
 
 Overall, this project successfully demonstrated how to build, train, and visualize a basic classification model using a real-world scenario. It also highlighted the usefulness of VS Code for machine learning development, as it made the process of writing and running code seamless and interactive.
 
+#OUTPUT
+
+<img width="1457" height="828" alt="Image" src="https://github.com/user-attachments/assets/60440b79-fb9c-47c4-8a27-8c67322671f4" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/77a1919b-91d6-4969-aa7e-103adaa13e8b" />
